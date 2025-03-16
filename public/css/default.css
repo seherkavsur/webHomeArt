@@ -13,7 +13,7 @@ body{
     width: 100%;
     height: auto;
     min-height: 100vh;
-    background-color: wheat;
+    background-color: rgb(240, 240, 240);
 }
 img, video{
     width: 100%;
